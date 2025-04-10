@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam yadav</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">Passionate about developing high-performance mobile applications with Flutter and implementing efficient DevOps practices for seamless CI/CD and automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamyadav&label=Profile%20views&color=0e75b6&style=flat" alt="shivamyadav" /> </p>
-
-- 🌱 I’m currently learning **DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
