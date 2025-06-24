@@ -8,41 +8,41 @@
 <!--social-->
 <!-- ## 🙋‍ Connect with me: -->
 <p align="center">
-<a href="https://github.com/shivamydv39"><img src = "https://badges.pufler.dev/visits/shivamydv39/shivamydv39" height = 30px></a> <a href="https://x.com/Shivamydv48"><img src = "https://img.shields.io/badge/Twitter-Page?style=flat&logo=twitter&logoColor=white&color=1CA2F1" height = 30px></a> <a href="https://www.linkedin.com/in/shivam-yadav-592752257/"><img src = "https://img.shields.io/badge/LinkedIn-Page?style=flat&logo=linkedin&logoColor=white&color=0E76A8" height = 30px></a> <a href="https://discordapp.com/users/1351544864973525023"><img src = "https://img.shields.io/badge/Discord-Page?style=flat&logo=discord&logoColor=white&color=4169E1" height = 30px></a><!-- <a href="https://www.instagram.com/aman_65144/"><img src = "https://img.shields.io/badge/Instagram-Page?style=flat&logo=instagram&logoColor=white&color=DD2A7B" height = 30px></a> --><!--   <a href="https://www.hackerrank.com/Aman1337g"><img src = "https://img.shields.io/badge/HackerRank-Page?style=flat&logo=hackerrank&logoColor=white&color=1ba94c" height = 30px></a> -->
+<a href="https://github.com/Aman1337g"><img src = "https://badges.pufler.dev/visits/Aman1337g/Aman1337g" height = 30px></a> <a href="https://aman1337g.vercel.app/"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a> <a href="https://twitter.com/Aman1337g"><img src = "https://img.shields.io/badge/Twitter-Page?style=flat&logo=twitter&logoColor=white&color=1CA2F1" height = 30px></a> <a href="https://www.linkedin.com/in/aman-gupta-b03906227/"><img src = "https://img.shields.io/badge/LinkedIn-Page?style=flat&logo=linkedin&logoColor=white&color=0E76A8" height = 30px></a> <a href="https://discordapp.com/users/921998155476774922"><img src = "https://img.shields.io/badge/Discord-Page?style=flat&logo=discord&logoColor=white&color=4169E1" height = 30px></a><!-- <a href="https://www.instagram.com/aman_65144/"><img src = "https://img.shields.io/badge/Instagram-Page?style=flat&logo=instagram&logoColor=white&color=DD2A7B" height = 30px></a> --><!--   <a href="https://www.hackerrank.com/Aman1337g"><img src = "https://img.shields.io/badge/HackerRank-Page?style=flat&logo=hackerrank&logoColor=white&color=1ba94c" height = 30px></a> -->
 </p>
 
 ```py
 {
-    name: 'Shivam Yadav',
-    education: 'Final year BTech CSE at IIIT Ranchi, India',
-    currentlyWorkingOn: 'Full stack app and DevOps',
+    name: 'Aman Kumar Gupta',
+    education: '4th year CSE undergrad at IIIT Bhubaneswar, India',
+    currentlyWorkingOn: 'Full stack Web and DevOps',
 }
 ```
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamydv39&column=-1" alt="shivamydv39" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman1337g&column=-1" alt="Aman1337g" /></a> </p>
 
 
 <!-- GitHub Readme Streak Stats-->
 <!-- ## 🔥 Streak stats -->
 <table align="center">
   <tr>
-<!--     <td colspan="2" align="center"><img  alt="Shivam-Yadav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamydv39&show_icons=true&theme=dark&locale=en&layout=compact"/></td> -->
+<!--     <td colspan="2" align="center"><img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td> -->
          <td colspan="2" align="center">
     <a href="https://git.io/streak-stats">
-        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamydv39&theme=dark">
+        <img alt="GitHub Streak" src="https://github-readme-streak-stats-7a3hq3j0q-aman1337g.vercel.app?user=Aman1337g&theme=dark">
     </a>
 </td>
 
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamydv39&theme=xcode"></td>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman1337g&theme=xcode"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shivamydv39&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamydv39&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github.com/shivamydv39/shivamydv39/blob/output/github-contribution-grid-snake.svg"/></td>
+    <td colspan="2" align="center"><img src="https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.svg"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"/>
